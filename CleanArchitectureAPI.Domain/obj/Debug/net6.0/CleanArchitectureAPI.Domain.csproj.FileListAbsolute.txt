@@ -1,0 +1,12 @@
+C:\Users\estev\myWay\curso_cleanarqmvc\CleanArchitectureAPI.Domain\bin\Debug\net6.0\CleanArchitectureAPI.Domain.deps.json
+C:\Users\estev\myWay\curso_cleanarqmvc\CleanArchitectureAPI.Domain\bin\Debug\net6.0\CleanArchitectureAPI.Domain.dll
+C:\Users\estev\myWay\curso_cleanarqmvc\CleanArchitectureAPI.Domain\bin\Debug\net6.0\CleanArchitectureAPI.Domain.pdb
+C:\Users\estev\myWay\curso_cleanarqmvc\CleanArchitectureAPI.Domain\obj\Debug\net6.0\CleanArchitectureAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\estev\myWay\curso_cleanarqmvc\CleanArchitectureAPI.Domain\obj\Debug\net6.0\CleanArchitectureAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estev\myWay\curso_cleanarqmvc\CleanArchitectureAPI.Domain\obj\Debug\net6.0\CleanArchitectureAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\estev\myWay\curso_cleanarqmvc\CleanArchitectureAPI.Domain\obj\Debug\net6.0\CleanArchitectureAPI.Domain.AssemblyInfo.cs
+C:\Users\estev\myWay\curso_cleanarqmvc\CleanArchitectureAPI.Domain\obj\Debug\net6.0\CleanArchitectureAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\estev\myWay\curso_cleanarqmvc\CleanArchitectureAPI.Domain\obj\Debug\net6.0\CleanArchitectureAPI.Domain.dll
+C:\Users\estev\myWay\curso_cleanarqmvc\CleanArchitectureAPI.Domain\obj\Debug\net6.0\refint\CleanArchitectureAPI.Domain.dll
+C:\Users\estev\myWay\curso_cleanarqmvc\CleanArchitectureAPI.Domain\obj\Debug\net6.0\CleanArchitectureAPI.Domain.pdb
+C:\Users\estev\myWay\curso_cleanarqmvc\CleanArchitectureAPI.Domain\obj\Debug\net6.0\ref\CleanArchitectureAPI.Domain.dll

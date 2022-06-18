@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\CleanArchitectureAPI.Domain\CleanArchitectureAPI.Domain.csproj" />
+    <ProjectReference Include="..\CleanArchitectureAPI.Application\CleanArchitectureAPI.Application.csproj" />
+    <ProjectReference Include="..\CleanArchitectureAPI.Infra.Data\CleanArchitectureAPI.Infra.Data.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

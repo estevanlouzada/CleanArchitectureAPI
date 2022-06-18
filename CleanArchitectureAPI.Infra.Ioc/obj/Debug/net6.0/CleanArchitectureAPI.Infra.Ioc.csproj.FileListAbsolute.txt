@@ -1,0 +1,12 @@
+C:\Users\estev\myWay\curso_cleanarqmvc\CleanArchitectureAPI.Infra.Ioc\bin\Debug\net6.0\CleanArchitectureAPI.Infra.Ioc.deps.json
+C:\Users\estev\myWay\curso_cleanarqmvc\CleanArchitectureAPI.Infra.Ioc\bin\Debug\net6.0\CleanArchitectureAPI.Infra.Ioc.dll
+C:\Users\estev\myWay\curso_cleanarqmvc\CleanArchitectureAPI.Infra.Ioc\bin\Debug\net6.0\CleanArchitectureAPI.Infra.Ioc.pdb
+C:\Users\estev\myWay\curso_cleanarqmvc\CleanArchitectureAPI.Infra.Ioc\obj\Debug\net6.0\CleanArchitectureAPI.Infra.Ioc.csproj.AssemblyReference.cache
+C:\Users\estev\myWay\curso_cleanarqmvc\CleanArchitectureAPI.Infra.Ioc\obj\Debug\net6.0\CleanArchitectureAPI.Infra.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estev\myWay\curso_cleanarqmvc\CleanArchitectureAPI.Infra.Ioc\obj\Debug\net6.0\CleanArchitectureAPI.Infra.Ioc.AssemblyInfoInputs.cache
+C:\Users\estev\myWay\curso_cleanarqmvc\CleanArchitectureAPI.Infra.Ioc\obj\Debug\net6.0\CleanArchitectureAPI.Infra.Ioc.AssemblyInfo.cs
+C:\Users\estev\myWay\curso_cleanarqmvc\CleanArchitectureAPI.Infra.Ioc\obj\Debug\net6.0\CleanArchitectureAPI.Infra.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\estev\myWay\curso_cleanarqmvc\CleanArchitectureAPI.Infra.Ioc\obj\Debug\net6.0\CleanArchitectureAPI.Infra.Ioc.dll
+C:\Users\estev\myWay\curso_cleanarqmvc\CleanArchitectureAPI.Infra.Ioc\obj\Debug\net6.0\refint\CleanArchitectureAPI.Infra.Ioc.dll
+C:\Users\estev\myWay\curso_cleanarqmvc\CleanArchitectureAPI.Infra.Ioc\obj\Debug\net6.0\CleanArchitectureAPI.Infra.Ioc.pdb
+C:\Users\estev\myWay\curso_cleanarqmvc\CleanArchitectureAPI.Infra.Ioc\obj\Debug\net6.0\ref\CleanArchitectureAPI.Infra.Ioc.dll
